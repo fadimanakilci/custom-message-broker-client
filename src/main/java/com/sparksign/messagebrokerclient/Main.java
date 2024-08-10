@@ -8,9 +8,9 @@
  * Created by Fadimana Kilci  <fadimekilci07@gmail.com>, August 2024
  */
 
-package com.sparksign;
+package com.sparksign.messagebrokerclient;
 
-import com.sparksign.model.Message;
+import com.sparksign.messagebroker.model.Message;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;
@@ -22,8 +22,6 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     private final String                host;
     private final int                   port;
