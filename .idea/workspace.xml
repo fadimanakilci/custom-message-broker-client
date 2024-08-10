@@ -4,20 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd5dff3c-efd5-4d3e-8a42-8c69595d1f9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="dd5dff3c-efd5-4d3e-8a42-8c69595d1f9f" name="Changes" comment="docs: update README.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;fadimanakilci&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/fadimanakilci/custom-message-broker-client.git&quot;,
+    &quot;accountId&quot;: &quot;45262e7e-486a-40fe-a5c8-44c324d235b8&quot;
+  }
+}</component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2kHFSjlEIVteKRRG29FXfBHzb64" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,11 +41,39 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/fadimanakilci/IdeaProjects/custom-message-broker-client",
     "onboarding.tips.debug.path": "/Users/fadimanakilci/IdeaProjects/custom-message-broker-client/src/main/java/com/sparksign/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sparksign.messagebrokerclient.Main" />
+      <module name="custom-message-broker-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sparksign.messagebrokerclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,17 +83,55 @@
       <option name="presentableId" value="Default" />
       <updated>1722932599966</updated>
     </task>
+    <task id="LOCAL-00001" summary="docs: add LICENSE">
+      <option name="closed" value="true" />
+      <created>1723289396090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723289396090</updated>
+    </task>
+    <task id="LOCAL-00002" summary="build: update package">
+      <option name="closed" value="true" />
+      <created>1723289471456</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723289471456</updated>
+    </task>
+    <task id="LOCAL-00003" summary="build: update pom.xml file">
+      <option name="closed" value="true" />
+      <created>1723289491579</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723289491579</updated>
+    </task>
+    <task id="LOCAL-00004" summary="docs: add README.md">
+      <option name="closed" value="true" />
+      <created>1723290738020</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723290738020</updated>
+    </task>
+    <task id="LOCAL-00005" summary="docs: update README.md">
+      <option name="closed" value="true" />
+      <created>1723290960213</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723290960213</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/sparksign/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docs: add LICENSE" />
+    <MESSAGE value="build: update package" />
+    <MESSAGE value="build: update pom.xml file" />
+    <MESSAGE value="docs: add README.md" />
+    <MESSAGE value="docs: update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs: update README.md" />
   </component>
 </project>
