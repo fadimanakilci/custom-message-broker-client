@@ -15,12 +15,14 @@ Follow these steps to get your client up and running:
    ```
 
 2. **Build the Project**
+
    Ensure you have Maven installed to build the project:
    ```bash
    mvn clean install
    ```
    
 3. **Run the Client**
+
    Start the client application with:
     ```bash
    mvn exec:java -Dexec.mainClass="com.sparksign.messagebrokerclient.Main"
@@ -54,7 +56,7 @@ Adjust your MessageBrokerClient settings in `main`:
 
 ## 🔄 Example Interaction
 
-1. **Start the Server:** Ensure the server is running as per the server module README.
+1. **Start the Server:** Ensure the server is running as per the server module `README`.
 2. **Run the Client:** Use the commands above to send messages and receive responses.
 
 
